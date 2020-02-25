@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "323266931663",
+    "firebase_url": "https://tour-leader-app-test.firebaseio.com",
+    "project_id": "tour-leader-app-test",
+    "storage_bucket": "tour-leader-app-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323266931663:android:9ea906aad1e655b98b40ba",
+        "android_client_info": {
+          "package_name": "vn.com.tugo.tourleadertest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323266931663-vqg7cifmpsbhgeo4m296q1jpha41pjsr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.com.tugo.tourleadertest",
+            "certificate_hash": "67da202734395d0a7dd3ef4a78b1acd512049a67"
+          }
+        },
+        {
+          "client_id": "323266931663-2lfres08mr5j2crtfsao8qsq65f2eond.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.com.tugo.tourleadertest",
+            "certificate_hash": "bbb27fac3b51849271fcbd03235e896e3441197b"
+          }
+        },
+        {
+          "client_id": "323266931663-ujvtie4qmjms63sirtqpeudd39isgm65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.com.tugo.tourleadertest",
+            "certificate_hash": "32a07c0d12fbdb79592bfc80fab424feee420e1f"
+          }
+        },
+        {
+          "client_id": "323266931663-djab8bijn27o157ovjb60sj5nfum0trt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMZOvW1ooXH2CM4vS3DNGtWwVgNRauZDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323266931663-djab8bijn27o157ovjb60sj5nfum0trt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "323266931663-n7tc7ulmaa0sc86dogfc5ap41a19js0j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.com.tugo.tourleadertest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
